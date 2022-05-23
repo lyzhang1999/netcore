@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lHUYt5EHIDb6atZ0sQbsgNSiNdyPetYyHY6jMbMT0Rs=",
+  "Source": "DaprCounterASPNET",
+  "BasePath": "_content/DaprCounterASPNET",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
